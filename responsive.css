@@ -1,0 +1,247 @@
+@media screen and (max-width: 1000px) {
+  #div1_img {
+    height: 55%;
+  }
+  #photo3 {
+    height: 55%;
+  }
+  #div2 {
+    width: 50%;
+  }
+  #card_div {
+    width: 82%;
+  }
+  #card h1 {
+    font-size: 40px;
+  }
+}
+
+
+@media screen and (max-width: 900px) {
+  #navbar {
+    font-size: 0.8rem;
+    padding: 2% 5% 1.5%;
+  }
+  #herosection {
+    display: block;
+    height: max-content;
+    background: rgb(255, 247, 170);
+    background: linear-gradient(
+      98deg,
+      rgb(255, 247, 175) 0%,
+      rgba(255, 198, 199, 1) 100%
+    );
+  }
+  .hero1 {
+    padding: 6%;
+    width: 100%;
+    padding-bottom: 4%;
+    background: none;
+  }
+  .hero1 h1 {
+    font-size: 37px;
+    letter-spacing: 6px;
+    margin-bottom: 25px;
+  }
+  .hero1 p {
+    font-size: 16px;
+    margin-bottom: 23px;
+    line-height: 1.5;
+  }
+  .hero1 button {
+    padding: 12px 50px;
+  }
+  .hero2 {
+    height: 54vh;
+    margin: 0 7%;
+    width: 86%;
+  }
+
+
+  #about{
+    padding-top: 4%;
+    display: block;
+  }
+  #div1 {
+    width: 81%;
+    height: 60%;
+  }
+  #gap {
+    width: 67%;
+  }
+  #div1_img {
+    height: 85%;
+    width: 100%;
+  }
+  #photo3 {
+    height: 85%;
+    margin-right: 0px;
+  }
+  #div2 {
+    width: 100%;
+    height: 35%;
+    display: flex;
+    justify-content: center;
+  }
+  #card_div {
+    width: 47%;
+  }
+  #card{
+    margin: 0;
+  }
+}
+
+
+@media screen and (max-width: 820px) {
+    #card h1 {
+        font-size: 33px;
+      }
+}
+
+@media screen and (max-width: 760px) {
+  #navbar {
+    font-size: 0.7rem;
+    padding: 2% 3% 1.5%;
+  }
+
+  #navbar h2 {
+    letter-spacing: 2px;
+    padding-top: 3px;
+  }
+
+  .hero1 {
+    padding-bottom: 5%;
+  }
+
+  .hero2 {
+    height: 45vh;
+  }
+
+ 
+  #div1 {
+    width: 84%;
+  }
+  #gap {
+    width: 52%;
+  }
+  #div1_img {
+    height: 85%;
+    width: 100%;
+  }
+  #div2 {
+    width: 100%;
+    height: 35%;
+    display: flex;
+    justify-content: center;
+  }
+  #card_div {
+    width: 50%;
+  }
+  #card h1 {
+    font-size: 28px;
+  }
+}
+
+
+@media screen and (max-width: 660px) {
+  #navbar {
+    padding: 1.4% 6%;
+  }
+
+  #navbar h2 {
+    display: none;
+  }
+
+  #menuicon {
+    height: 35px;
+    padding: 4px;
+  }
+  .hero1 {
+    padding-bottom: 4%;
+  }
+
+  .hero1 h1 {
+    font-size: 33px;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+  }
+
+  .hero1 p {
+    font-size: 15px;
+    margin-bottom: 17px;
+  }
+
+  .hero1 button {
+    padding: 10px 40px;
+  }
+
+  .hero2 {
+    height: 40vh;
+    margin: 0 6%;
+    width: 88%;
+  }
+  
+  #about{
+    height: 95vh;
+  }
+  #div1 {
+    width: 87%;
+  }
+  #gap {
+    width: 35%;
+  }
+  #div2 {
+    width: 100%;
+    height: 35%;
+  }
+  #card_div {
+    width: 60%;
+  }
+  #card h1 {
+    font-size: 24px;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .hero1 {
+    padding: 6%;
+  }
+
+  .hero1 h1 {
+    font-size: 28px;
+    letter-spacing: 3px;
+    margin-bottom: 17px;
+  }
+
+  .hero1 p {
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+
+  .hero1 button {
+    padding: 7px 30px;
+  }
+
+  .hero2 {
+    height: 40vh;
+    margin: 0 6%;
+    width: 88%;
+  }
+ 
+  #about{
+    height: 90vh;
+  }
+  #div1 {
+    width: 90%;
+  }
+  #gap {
+    width: 25%;
+  }
+  #card_div {
+    width: 70%;
+  }
+  #card h1 {
+    font-size:24px;
+  }
+}
